@@ -90,7 +90,7 @@
                         var customOverlay = "";
                         
 
-                        // Ajax 공연 정보 가져오기
+                        // Ajax 공연 정보 가져오기!
                         $(function () {
                             $.ajax({
                                 url: "${pageContext.request.contextPath}/map/mapViewData.do",
