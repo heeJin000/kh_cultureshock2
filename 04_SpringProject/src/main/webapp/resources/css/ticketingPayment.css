@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+section {
+	height : 700px;
+}
+
+body {
+	
+    height: 100%;
+}
+
+.poster, .payment-check {
+	height : 550px;
+}
+  
+.reserve-container {
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid #dddddd; */
+}
+
+.reserve-container>div {
+    border: 1px solid #dddddd;
+}
+
+.reserve-title {
+    border-bottom: 1px solid #dddddd;
+    background-color: #444444;
+    text-align: center;
+    color: #dddddd;
+    padding: 5px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.movie-list img {
+	width: 300px; 
+	height: 500px;
+	justify-content: center;
+}
+
+.empty {
+	height: 10px;
+}
+
+.sort-wrapper {
+    margin: 20px 6px 0px 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.sort-wrapper>div {
+    padding: 3px;
+}
+
+.sort-selected {
+    font-weight: bold;
+}
+
+
+.reserve-date {
+    margin: 10px 6px 6px 10px;
+    /* padding: 3px; */
+    display: flex;
+    border-bottom: 1px solid #dddddd;
+    font-size: 12px;
+    justify-content: center;
+    text-align:center;
+}        
+     
+       
+   /*  justify-content: center; */
+
+    /* border: 1px solid #dddddd; */
+
+/*     font-size: 13px;
+    font-weight: bold; */

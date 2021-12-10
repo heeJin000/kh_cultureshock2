@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+body {font-family:"휴먼모음T";}
+div, header, footer {padding:3px;}
+
+/********** 전체컨테이너 **********/
+div#container	{}
+
+/********** header **********/
+header div#header-container {height:260px; text-align : center; justify-content: center; }
+
+/********** content **********/
+section#content		{min-height:750px;}
+
+
+/********** footer **********/
+footer		{background-color:#ce986f; color : rgb(182, 9, 50); background-clip:content-box; clear:both; height:80px; text-align:center; font-size:18px;}
+footer p 	{margin-top:30px;} 
