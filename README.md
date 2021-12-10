@@ -8,7 +8,7 @@
 |설정|설정명|
 |--|--|
 |운영체제|macOS|
-|개발도구|STS|
+|개발도구|STS, Spring|
 |DBMS|Oracle DB - sql Developer|
 |Server|Apache Tomcat 8.0|
 |Language|Java, HTML5, Javascript, jQuery, Servlet|
